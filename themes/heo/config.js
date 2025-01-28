@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: "Welcome to Gintmrs Blog", url: 'https://notion-page-1ir23d0ls-gintmrs-projects.vercel.app/' },  
-    { title: 'More information on my GitHub Page', url: 'https://github.com/gintmr' },
+    { title: "Welcome to Gintmr's Blog", url: 'https://notion-page-1ir23d0ls-gintmrs-projects.vercel.app/' },    
+    { title: 'More information on my GitHub Page', url: 'https://github.com/gintmr' },  
   ],
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
