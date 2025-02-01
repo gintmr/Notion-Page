@@ -46,7 +46,7 @@ module.exports = {
     {
       name: '銀色の空', 
       artist: 'redballoon', 
-      url: 'http://music.163.com/#/song?id=4950238',  
+      url: 'https://m801.music.126.net/20250201214034/32e634f59f7031f7b3ebdaa06061d84a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34373730326/9f4d/050a/9a89/1249d0e17866b79fd7b34e52dcfd1249.mp3?vuutv=HrC+IWpTiJRJ/sWDnd/tz36HjmemVyNo+1CpolRBWBb7/v1jEn/kppyQ08+qBmDcQKCHe+JYWuKtYHsBM04Edjh0vGldIyGfqkPXW1BHxFc=',  
       cover:  
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpiOLtKUkJeL6hW0lhOlEvqprR9QwfOSHSQ&s'  
     },
@@ -55,6 +55,12 @@ module.exports = {
       artist: '方大同',
       url: 'https://m801.music.126.net/20250201204949/550ce9af242690ff6759fe8a2e1d51cf/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/45379462773/b82b/2491/4de3/1a91d0d61bf3446383c6c54e1db8ccea.mp3?vuutv=PETr1Y9pa+fhBh+Uq2hHBCnihDKkDG1zbNVUcsKqX2l8e7tLbyciAKQzQxYLM8v+jz//YyaF+bXZjGcyV6b5eUI8924krmfJ7wR//frvqp4=',
       cover: 'https://chinesealbumart.com/wp-content/uploads/2024/10/2024-10-18-%E6%96%B9%E5%A4%A7%E5%90%8C-%E6%A2%A6%E6%83%B3%E5%AE%B6-LARGE.jpg'
+    },
+    {
+      name: '桥豆麻袋',
+      artist: '陈粒',
+      url: 'https://m801.music.126.net/20250201214002/784adfa319b8621ffbd021fb77752a0e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481805747/1dea/3d91/47ab/608f18e294faf558b880dc5352d00d40.mp3?vuutv=fK63BC2XM7SoY3KDFa3kt0OIhqoMA5rbpLxeiNDkyyTbCRSZ+NsXOO2ZFuvcuq9Q17LDqezjkeGusPAY93mVdrWdjn/hm1PnkywVyBAW8Ps=',
+      cover: 'https://i.kfs.io/album/global/76726396,0v1/fit/500x500.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
