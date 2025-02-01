@@ -61,6 +61,12 @@ module.exports = {
       artist: '陈粒',
       url: 'https://m801.music.126.net/20250201214002/784adfa319b8621ffbd021fb77752a0e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481805747/1dea/3d91/47ab/608f18e294faf558b880dc5352d00d40.mp3?vuutv=fK63BC2XM7SoY3KDFa3kt0OIhqoMA5rbpLxeiNDkyyTbCRSZ+NsXOO2ZFuvcuq9Q17LDqezjkeGusPAY93mVdrWdjn/hm1PnkywVyBAW8Ps=',
       cover: 'https://i.kfs.io/album/global/76726396,0v1/fit/500x500.jpg'
+    },
+    {
+      name: '不开灯俱乐部',
+      artist: '黄宣',
+      url: 'https://m10.music.126.net/20250201214138/c5fc913002d0bcf58ddc391f2add6921/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054876207/a3d1/56b0/7000/7bd6d539f2168a1d42a6d8bdeceebfac.mp3?vuutv=WdF94OK8dkT20lWwUWzz4WmmY6jbwzsDwd9cTheaBsfZBLl/HtvgGb4CHLOHWdVKHactwx1lXXWLheu/NgZS07mVHj5Y48bYec/c/opjQaw=',
+      cover: 'https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a4/e2/f9/a4e2f9af-26e4-7ff4-11c5-e54ff167a299/4718009703193.jpg/416x416bb.webp'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
