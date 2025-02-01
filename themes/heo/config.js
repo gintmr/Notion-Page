@@ -21,11 +21,11 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'Work Record',    
   HEO_HERO_TITLE_3: 'Interests',  
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: 'Wander Around',  
+  HEO_HERO_COVER_TITLE: 'Wander Around',    
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Daliy Record', url: '/tag/Daliy Record' },    
-  HEO_HERO_CATEGORY_2: { title: 'Work Record', url: '/tag/Work Record' },  
+  HEO_HERO_CATEGORY_2: { title: 'Work Record', url: '/tag/Work Record' },    
   HEO_HERO_CATEGORY_3: { title: 'Interests', url: '/tag/Interests' },  
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -45,7 +45,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/gintmr',  
   HEO_INFO_CARD_ICON2: 'fab fa-github',  
   HEO_INFO_CARD_URL3: 'https://gintmr.20250130.xyz',    
-  HEO_INFO_CARD_TEXT3: 'Learn More',  
+  HEO_INFO_CARD_TEXT3: 'Back Home',    
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
