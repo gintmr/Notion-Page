@@ -46,7 +46,7 @@ module.exports = {
     {
       name: '銀色の空', 
       artist: 'redballoon', 
-      url: 'https://m701.music.126.net/20250201160057/fc07f7d50640e8af755a29b15e2d7f03/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34373730326/9f4d/050a/9a89/1249d0e17866b79fd7b34e52dcfd1249.mp3?vuutv=DtyFQXZIXtHpMjUYgvWAB9zt5VQjhKEb4YEbktm7qoof2ofxuP4QQ9HQxcmrP2tILxpG00J/0eSPHsCENI2baaTwWm4R8q0o3cL3Z1PDb6Q=',  
+      url: 'http://music.163.com/#/song?id=4950238',  
       cover:  
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpiOLtKUkJeL6hW0lhOlEvqprR9QwfOSHSQ&s'  
     },
