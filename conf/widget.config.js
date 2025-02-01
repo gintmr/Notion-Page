@@ -39,9 +39,9 @@ module.exports = {
     {
       name: 'Luv(sic)',  
       artist: 'Nujabes',  
-      url: 'https://www.youtube.com/watch?v=jfTdzrtGKuY',  
+      url: 'http://music.163.com/#/song?id=22821100',    
       cover:
-        'https://en.wikipedia.org/wiki/Luv%28Sic%29_Hexalogy#/media/File:Luv(Sic)_Hexalogy.jpg'  
+        'https://upload.wikimedia.org/wikipedia/en/e/eb/Luv%28Sic%29_Hexalogy.jpg'    
     },
     // {
     //   name: '王都グランセル',
