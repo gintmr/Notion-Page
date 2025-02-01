@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'Work Record',    
   HEO_HERO_TITLE_3: 'Interests',  
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: 'Wander Around',    
+  HEO_HERO_COVER_TITLE: 'Wander···',    
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Daliy Record', url: '/tag/Daliy Record' },    
@@ -29,13 +29,13 @@ const CONFIG = {
   HEO_HERO_CATEGORY_3: { title: 'Interests', url: '/tag/Interests' },  
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HEO_HERO_RECOMMEND_POST_TAG: 'Recommend',    
+  HEO_HERO_RECOMMEND_POST_TAG: 'Recommend',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片    
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
-  HEO_INFOCARD_GREETINGS: [  
-    "Hello！Here's Gintmr, ",    
+  HEO_INFOCARD_GREETINGS: [
+    "Hello! 👇This is a Bulletin board.",
 
   ],
 
