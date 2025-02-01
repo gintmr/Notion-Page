@@ -37,19 +37,19 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'Luv(sic)',  
+      name: '四季之歌',    
       artist: 'Nujabes',  
-      url: 'https://m701.music.126.net/20250201155524/d02c62c1dcebab9d05773f66681faf15/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34373730326/9f4d/050a/9a89/1249d0e17866b79fd7b34e52dcfd1249.mp3?vuutv=Ti1YS+1P/QLipZ6wW/cwEH/5Wr8hG75MfFUBgn1Iqpm+5Q0gijm3Nm9WhV6DlBvtqEKNf+/WLzQmMfedvs2b/RkXrduszFqDLnUV1yH4C6E=',          
+      url: 'https://m10.music.126.net/20250201155840/53a5776c5721f648b8e1f464d9abbdc4/ymusic/7807/9c70/fbd1/d012256ed1ccea7f9f51fbc1a5631f9c.mp3?vuutv=mwGdwjMSnxFHs2/sdPlp0gsb3f0fZYA7I2AvmymDbbs9r8nNaPRjIotOIBgB0O6USI4kpzJXIGXJycCQ84C7Xa+P0dyTOTljXXzoX3Glhu8=',            
       cover:
-        'https://upload.wikimedia.org/wikipedia/en/e/eb/Luv%28Sic%29_Hexalogy.jpg'      
+        'https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171104/fcaa568cf4764a2da92930899c72f23c.jpeg'        
     },
-    // {
-    //   name: '王都グランセル',
-    //   artist: 'Falcom Sound Team jdk',
-    //   url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
-    //   cover:
-    //     'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    // }
+    {
+      name: '銀色の空',  
+      artist: 'redballoon',  
+      url: 'https://m701.music.126.net/20250201160057/fc07f7d50640e8af755a29b15e2d7f03/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34373730326/9f4d/050a/9a89/1249d0e17866b79fd7b34e52dcfd1249.mp3?vuutv=DtyFQXZIXtHpMjUYgvWAB9zt5VQjhKEb4YEbktm7qoof2ofxuP4QQ9HQxcmrP2tILxpG00J/0eSPHsCENI2baaTwWm4R8q0o3cL3Z1PDb6Q=',  
+      cover:  
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpiOLtKUkJeL6hW0lhOlEvqprR9QwfOSHSQ&s'  
+    }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
