@@ -39,7 +39,7 @@ module.exports = {
     {
       name: 'Luv(sic)',  
       artist: 'Nujabes',  
-      url: 'https://music.163.com/#/song?id=39324826',        
+      url: 'https://m701.music.126.net/20250201155524/d02c62c1dcebab9d05773f66681faf15/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34373730326/9f4d/050a/9a89/1249d0e17866b79fd7b34e52dcfd1249.mp3?vuutv=Ti1YS+1P/QLipZ6wW/cwEH/5Wr8hG75MfFUBgn1Iqpm+5Q0gijm3Nm9WhV6DlBvtqEKNf+/WLzQmMfedvs2b/RkXrduszFqDLnUV1yH4C6E=',          
       cover:
         'https://upload.wikimedia.org/wikipedia/en/e/eb/Luv%28Sic%29_Hexalogy.jpg'      
     },
